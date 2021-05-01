@@ -1,0 +1,9 @@
+﻿  Hair.cpp
+D:\SafeData\SynologyDrive\DOCUMENTATION\academic\MIRI\assignatures\CA\lab\particles\particles\Particles1\Hair.cpp(85,21): warning C4018: '<': signed/unsigned mismatch
+D:\SafeData\SynologyDrive\DOCUMENTATION\academic\MIRI\assignatures\CA\lab\particles\particles\Particles1\Hair.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+D:\SafeData\SynologyDrive\DOCUMENTATION\academic\MIRI\assignatures\CA\lab\particles\particles\Particles1\Hair.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+D:\SafeData\SynologyDrive\DOCUMENTATION\academic\MIRI\assignatures\CA\lab\particles\particles\Particles1\Hair.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+D:\SafeData\SynologyDrive\DOCUMENTATION\academic\MIRI\assignatures\CA\lab\particles\particles\Particles1\Hair.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+D:\SafeData\SynologyDrive\DOCUMENTATION\academic\MIRI\assignatures\CA\lab\particles\particles\Particles1\Hair.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  particles.vcxproj -> D:\SafeData\SynologyDrive\DOCUMENTATION\academic\MIRI\assignatures\CA\lab\particles\particles\Debug\particles.exe
